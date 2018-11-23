@@ -1,4 +1,4 @@
-Funniest
+Nonsense Project in order to learn git and Python packaging in detail
 --------
 
 To use (with caution), simply do::
