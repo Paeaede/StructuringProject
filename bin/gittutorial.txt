@@ -1,3 +1,5 @@
 Whatever stands here
 
 This line was written in order to check differences when changing something on a separate branch
+
+this is another text that is added in context of tutorial 2.
