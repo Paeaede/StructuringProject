@@ -1,1 +1,3 @@
 Whatever stands here
+
+This line was written in order to check differences when changing something on a separate branch
